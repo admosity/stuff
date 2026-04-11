@@ -17,6 +17,18 @@ Traditional roaming can be expensive, and local physical SIM cards can be a hass
 
 -   **Why it works:** It offers flexible 1–30 day passes and uses 5G high-speed data. Most importantly, travel eSIMs often allow you to access your usual Western apps (like WhatsApp or Gmail) without needing a separate VPN.
 
+### **Already on a US Carrier?**
+
+Major US carriers offer international roaming plans that work in China for basic connectivity. However, **whether roaming bypasses the Great Firewall is unreliable**—some travelers report accessing Google, WhatsApp, and Instagram without issues, while others find these services still blocked. It depends on how your carrier routes traffic at the time, and there is no guarantee.
+
+| Carrier | Plan | Cost | Notes |
+|---------|------|------|-------|
+| **Verizon** | TravelPass | $10/day | Uses your domestic plan's data, talk, and text |
+| **T-Mobile** | Magenta/Go5G | Included (2G) / $5/day (5G) | Basic 2G data is free in 215+ countries; high-speed passes available |
+| **AT&T** | International Day Pass | $12/day | Uses your domestic data allowance |
+
+> **Bottom line:** US carrier roaming is convenient for calls and texts, but don't count on it to access blocked apps. A travel eSIM that explicitly routes through servers outside mainland China (e.g., via Hong Kong or Singapore) is a much more reliable way to bypass the Great Firewall. Consider your carrier plan as a backup, not your primary strategy.
+
 ## 2. The "Must-Haves": Payments and Communication
 
 China is virtually a cashless society. You will rarely use physical money; instead, everything—from five-star hotels to street-side fruit vendors—is paid for via QR codes.

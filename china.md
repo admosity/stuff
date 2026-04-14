@@ -95,4 +95,4 @@ Google Maps is famously unreliable in China due to the "GCJ-02" coordinate shift
 
 3. **Download Offline Maps:** Head into MAPS.ME and download the city data for your first destination before you board the plane.
 
-4. **Carry a Power Bank:** Since your entire life (money, maps, and transport) is on your phone, a dead battery is a serious problem. While power bank rentals are available everywhere in China, you'll need a working phone to scan the QR code to rent one!
+4. **Carry a Power Bank:** Since your entire life (money, maps, and transport) is on your phone, a dead battery is a serious problem. While power bank rentals are available everywhere in China, you'll need a working phone to scan the QR code to rent one! **Important:** Power banks without a CCC (China Compulsory Certification) stamp will be confiscated at airport security. It's safer to check yours before you fly or just buy one once you arrive in China.
